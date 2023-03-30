@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
