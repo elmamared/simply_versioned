@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add Neural Magic Docs integrations page (#7234)
