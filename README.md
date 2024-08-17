@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix bbox2segment converter (#7814)
